@@ -6,4 +6,9 @@ draft: true
 - [ ] Time reversal
 - [ ] Science in breaking
 - [ ] Can I go anywhere?
-- [ ] 
+- [ ] Cognitive Load
+    - [ ] Limited cognitive capacity
+        - [ ] SITUATION VARIABLES
+    - [ ] What do I want to have capacity to think about?
+    - [ ] What do I want to not have to think about?
+- [ ] Creation tools
