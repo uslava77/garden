@@ -23,20 +23,18 @@ Sometimes the external world is quite successful at:
 It is useful to meditate on the terror of death once in a while.
 A healthy balance of this can introduce **urgency** and **focus**.
 
-
-
 # Extended Notes
 Work takes up a lot of folks time.
 - Is your work worth your time?
 
-## Survival
+## 1 Survival
 If the money you earn is primarily spent on survival, the answer is clearly yes.
 The deal makes sense, since it literally buys you more time to exist.
 
-This is where most folks are at due to either circumstances outside their control, or [misaligned habits](Bootstrap%20Power.md#Goals).
+This is where most folks are at due to either circumstances outside their control, or [misaligned habits](Habits%20and%20Goals.md#Goals).
 There is little to no choice what work you do at this stage.
 
-## Saving
+## 2 Saving
 The next stage is being able to save for future survival.
 This deal is also reasonable. 
 You are betting on existing in the future, and possibly lacking the means to earn (ex. age, lay-off).
@@ -44,7 +42,7 @@ You are betting on existing in the future, and possibly lacking the means to ear
 Here we have some more flexibility what kind of work you do.
 If the stars align, the work that helps you save for future survival is wasting your current time in a meaningful way.
 
-## Freedom
+## 3 Freedom
 The last stage is more of something you approach rather than ever reach.
 
 As you save, you become ever more covered for future survival.
