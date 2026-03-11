@@ -43,7 +43,23 @@ While choreo is best left for theater performances, it is still useful to consid
 
 This approach combines planning ahead, with decision making in the moment.
 # COMBO LEVEL
+## Choreo
+AKA -- **creating combos ahead of time**.
+## Freestyle
+Piecing together a combo in the moment.
+
+## Adjustment
+The middle-ground might be:
+- Adjusting the speed of a combo to match music
+- Adding a move to the beginning/end of the combo
 # MOVE LEVEL
+## Choreo
+Advised. Most breaking moves require practice and drilling to achieve a good form.
+Prevents injury risk.
+## Freestyle
+Mostly limited to small movements, generally in response to music.
+High injury risk for movements that are more physically challenging.
+High risk of poor form.
 
 
 # COMBINING LEVELS

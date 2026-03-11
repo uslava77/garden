@@ -11,7 +11,7 @@ Freedom is:
 # Freestyle
 Freestyle is using freedom to create new: [moves](Dance%20is%20Continuous.md#Move), [combos](Dance%20is%20Continuous.md#Combo) and [sets](Dance%20is%20Continuous.md#Set), *in the present moment.*
 
-See [creating sets in the moment](FIX%20ME.md#In%20the%20moment)
+See [Choreo to Freestyle Continuum](Choreo%20to%20Freestyle%20Continuum.md)
 
 # Move, Combo, Set
 ## Move
