@@ -1,3 +1,8 @@
+---
+draft: true
+---
+TODO: https://en.wikipedia.org/wiki/Superdeterminism
+The assumption of statistical independence is sometimes referred to as the free choice or [free will](https://en.wikipedia.org/wiki/Free_will "Free will") assumption, since its negation implies that human experimentalists are not free to choose which measurement to perform.
 # Me vs. World
 Our bodies are made of the same stuff as everything else, and bound by physical law which we have no control over. 
 
