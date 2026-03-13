@@ -5,6 +5,8 @@ draft: true
     - [ ] Aesthetics? Music vs not music
 - [ ] Time reversal
 - [ ] Science in breaking
+    - [ ] Some innovations only make sense with context
+    - [ ] 
 - [ ] Can I go anywhere?
 - [ ] Cognitive Load
     - [ ] Limited cognitive capacity
@@ -12,6 +14,7 @@ draft: true
     - [ ] What do I want to have capacity to think about?
     - [ ] What do I want to not have to think about?
 - [ ] Creation tools
+- [ ] What is Foundation
 
 - [ ] SHORT VS LONG TERM OPTIMIZE
     - [ ] maximize current potential

@@ -1,5 +1,5 @@
 # Eternal Return
-Say you have 10 combos, each following the [eternal return](FIX%20ME.md#Eternal%20Return%20The%20end%20IS%20the%20beginning) formula.
+Say you have 10 combos, each following the [Eternal Return](Combo%20Graph.md#Eternal%20Return) formula.
 Further, say a round consists of an arrangement of 3 different combos.  
 
 If we re-call some high school maths, we will recognize this as a [permutation](https://en.wikipedia.org/wiki/Permutation#k-permutations_of_n) problem:
